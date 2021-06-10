@@ -6,4 +6,4 @@ I whipped this up fast in OpenSCAD, so it probably can be improved a lot.
 
 I've included STL so you can print it directly without OpenSCAD if desired!
 
-<img src="/Users/grantham/trees/lame_holder/lame-holder-openscad.png" alt="lame-holder-openscad" style="zoom:50%;" />
+<img src="lame-holder-openscad.png" alt="lame-holder-openscad" style="zoom:50%;" />
